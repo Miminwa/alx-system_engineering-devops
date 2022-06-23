@@ -1,1 +1,1 @@
-content list of your directory
+contents list of current work directory
